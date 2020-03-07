@@ -7,7 +7,7 @@ Then I used pandas and Python's core functionality to clean the data. Following 
 I was really happy with how I was able to fix my top 10 charts at the end of this notebook. The sport column had lists of multiple sports in one cell if the stadium was used for multiple sports. I was able to split these lists with Python code to get an accurate count of the sports. 
 
 Here is the before chart:
-![before](images/before.jpg)
+![before](images/before.JPG)
 
 After:
 ![after](images/after.jpg)
